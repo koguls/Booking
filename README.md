@@ -20,7 +20,7 @@ This project uses `ArrayList` to manage and store ticket information dynamically
 
 ![Console Screenshot](https://github.com/koguls/Booking/blob/b423d24924f8ce99725da61c3600ad311638cd47/Booking/src/Screenshot%202024-12-10%20153927.png)
 ![Console Screenshot](https://github.com/koguls/Booking/blob/d091e38af3d8ba12682385bfe94445357c9e0ae4/Booking/src/Screenshot%202024-12-10%20154011.png)
-![Console Screenshot](https://github.com/koguls/Booking/blob/d091e38af3d8ba12682385bfe94445357c9e0ae4/Booking/src/Screenshot%202024-12-10%20154011.png)
+![Console Screenshot](https://github.com/koguls/Booking/blob/32515c92a63aaf99e6e9afbb0cb9421c615ef722/Booking/src/Screenshot%202024-12-10%20154118.png)
 ![Console Screenshot](https://github.com/koguls/Booking/blob/d091e38af3d8ba12682385bfe94445357c9e0ae4/Booking/src/Screenshot%202024-12-10%20154011.png)
 ![Console Screenshot](https://github.com/koguls/Booking/blob/d091e38af3d8ba12682385bfe94445357c9e0ae4/Booking/src/Screenshot%202024-12-10%20154011.png)
 
