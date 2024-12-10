@@ -18,9 +18,9 @@ This project uses `ArrayList` to manage and store ticket information dynamically
 
 ## 🖼️ Screenshots
 
-*(Add a screenshot or diagram, if applicable. Example:)*  
-![Console Screenshot](https://via.placeholder.com/800x400.png?text=Console+Interface)
 
+![Console Screenshot](Booking/src/Screenshot 2024-12-10 153927.png)
+![Console Screenshot](Booking/src/Screenshot 2024-12-10 153927.png)
 ---
 
 ## 🔧 Installation
